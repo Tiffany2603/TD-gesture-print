@@ -50,7 +50,7 @@ validates the emotional states of young people under social pressure.
 
 ## Project Structure
 
-├── *.toe                 # TouchDesigner main project file
+├── mainProject.toe                 # TouchDesigner main project file
 ├── print image.py        # Python print control script  
 ├── images/               # Symptom image assets
 └── README.md
